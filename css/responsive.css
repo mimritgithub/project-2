@@ -1,0 +1,87 @@
+@media (min-width:279px) and (max-width:319px){
+    .header .Adventure h1 {
+        font-size: 37px;
+        font-weight: 800;
+        padding: 0px 0px 30px;
+        font-family: 'Poppins', sans-serif;
+        text-transform: uppercase;
+    }
+    .abc{
+        width: 50%;
+    }
+    .about_taital_main {
+        width: 100%;
+        padding-top: 70px;
+        text-align: center;
+    }
+    .header .Adventure p {
+        font-family: 'Poppins', sans-serif;
+        font-size: 16px;
+        font-weight: 300;
+        padding: 0px 0px 40px;
+    }
+    .services_img {
+        width: 100%;
+        float: left;
+        text-align: center;
+        margin: 50px 0px 0px 0px;
+    }
+    .subscribe_bt a {
+        width: 170px;
+        float: left;
+        font-size: 18px;
+        color: #2b2278;
+        text-decoration: none;
+        background-color: transparent;
+        padding: 5px 0px;
+        text-align: center;
+        font-weight: 500;
+        text-transform: uppercase;
+        text-align: center;
+        margin: 0px 0px 0px -65px;
+    }
+    .let_text {
+        width: 100%;
+        font-size: 18px;
+        color: #1f1f1f;
+        font-weight: bold;
+        padding-bottom: 0px;
+    }
+    
+}
+@media (min-width:320px) and (max-width:479px){
+    .subscribe_bt a {
+        width: 100%;
+        float: left;
+        font-size: 18px;
+        text-decoration: none;
+        background-color: transparent;
+        text-align: center;
+        font-weight: 500;
+        text-transform: uppercase;
+    }
+    .about_img {
+        width: 100%;
+        float: left;
+        padding: 10px 0px;
+    }
+    .services_img {
+        width: 100%;
+        text-align: center;
+        padding: 10px 0px;
+    }
+    .header .Adventure h1 {
+        font-size: 40px;
+        font-weight: 800;
+        padding: 0px 0px 30px;
+        font-family: 'Poppins', sans-serif;
+        text-transform: uppercase;
+    }
+    
+}
+@media (min-width: 480px) and (max-width: 767px){
+
+}
+@media (min-width:768px) and (max-width:1024px){
+
+}
